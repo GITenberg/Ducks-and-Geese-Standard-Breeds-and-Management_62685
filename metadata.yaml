@@ -1,11 +1,16 @@
 _repo: Ducks-and-Geese-Standard-Breeds-and-Management_62685
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62685-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Howard, George E. (George Ellsworth)
     gutenberg_agent_id: '52076'
     url: http://www.gutenberg.org/2009/agents/52076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62685#Ducks-and-Geese-Standard-Breeds-and-Management
 gutenberg_issued: '2020-07-17'
 gutenberg_type: Text
 identifiers:
